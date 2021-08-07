@@ -2,6 +2,7 @@
 Web Logs Data Unsupervised, Supervised Learning, Association Rule Mining &amp; ARIMA Prediction. Web Crawling of citation information from Google Scholar.
 
 ***Part I - Data Analytics — Web Log Data*** 
+
 1. Data ETL 
 - Load Data
 - Feature Selection
@@ -13,6 +14,7 @@ Web Logs Data Unsupervised, Supervised Learning, Association Rule Mining &amp; A
 4. Association Rule Mining 
 
 ***Part II - Web Crawling*** 
+
 5. Crawl the professor Gang Li citation information from 2003 to 2021 
 6. Train Arima to predict the 2018 to 2020 citation
 - Train Arima Model
