@@ -4,7 +4,7 @@ Web Logs Data Unsupervised, Supervised Learning, Association Rule Mining &amp; A
 ***Part I - Data Analytics — Web Log Data*** 
 
 1. Data ETL 
----Load Data
+--- Load Data
 - Feature Selection
 
 2. Unsupervised learning
